@@ -1,0 +1,7 @@
+Execute setup.sh
+Would need modification in cync2 config for adding host name and ip at run time.
+
+It will be self explainetry if codes are seen in oder:
+setup.sh --> software installation
+csync2_common.cfg --> sync between hosts
+lsyncd.conf.lua --> when to trigger csync2
